@@ -5,6 +5,10 @@
       {
         "appID": "TEAMID.com.slohmaier.SprintGuide",
         "paths": ["*"]
+      },
+      {
+        "appID": "TEAMID.com.slohmaier.SightBridge",
+        "paths": ["*"]
       }
     ]
   }
