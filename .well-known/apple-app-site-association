@@ -3,11 +3,11 @@
     "apps": [],
     "details": [
       {
-        "appID": "TEAMID.com.slohmaier.SprintGuide",
+        "appID": "9KDRP4Q2D3.com.slohmaier.SprintGuide",
         "paths": ["*"]
       },
       {
-        "appID": "TEAMID.com.slohmaier.SightBridge",
+        "appID": "9KDRP4Q2D3.com.slohmaier.SightBridge",
         "paths": ["*"]
       }
     ]
